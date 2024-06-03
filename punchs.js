@@ -869,7 +869,6 @@ const punchs = [
   "N’écoute pas les gens, c’que tu veux, tu peux l’être",
   "la violence gratuite peut coûter très cher",
   "Quand ils ont une kalash braquée sur la te-tê, les athés deviennent croyants",
-  "Youssoupha en 10 Punchlines, le lyriciste Bantou",
   "À chaque tragédie, faut rester fort, c’est chacun son tour, chacun son sort",
   "Un petit fume un grand, l’âge ça veut rien dire, les p’tits veulent du respect",
   "Cette pétasse sait pas faire son lit mais dans son lit, elle sait tout faire",
