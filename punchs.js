@@ -290,7 +290,6 @@ const punchs = [
   "Les MC’s tournent en rond, Si ils allaient à la vitesse de la lumière ils pourraient s’auto-enculer, les bouffons",
   "En crachant sur l’un, forcément tu suces l’autre, La salope de l’un est souvent la femme d’un autre",
   "Elle veut que j’l’épouse, j’trouve ça flippant : faut des témoins, comme dans un accident",
-  "La go est douce, le négro est brut, ça va finir par coller car les opposés s’attirent",
   "Même si t’es gentil, on t’oubliera comme le premier « i » de « suicide »",
   "J’ai de l’or dans les couilles, il faut me sucer pour le croire",
   "Je cède aux plaisirs mais je n’suis pas plus heureux qu’au début",
